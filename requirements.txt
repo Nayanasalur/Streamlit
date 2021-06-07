@@ -1,0 +1,7 @@
+matplotlib
+seaborn
+streamlit>=0.73
+pandas
+numpy
+tensorflow-cpu
+keras
